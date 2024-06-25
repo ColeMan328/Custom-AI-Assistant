@@ -3,3 +3,4 @@ Werkzeug==2.0.2
 openai==0.28
 PyPDF2
 pillow
+python-docx
